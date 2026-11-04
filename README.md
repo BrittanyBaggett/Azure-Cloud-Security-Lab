@@ -155,15 +155,13 @@ Although the policy settings were configured, successful backup execution and re
 
 ### Configuration Evidence
 
-### Configuration Evidence
-
 **Backup Policy Settings**
 
-![Azure Backup Policy](screenshots/backup config 1.png)
+![Azure Backup Policy](screenshots/backup-config-1.png)
 
 **Lab Limitation — No Available Virtual Machines**
 
-![Azure VM Selection](screenshots/backup config 3.png)
+![Azure VM Selection](screenshots/backup-config-3.png)
 
 ## 4. Cloud Security Risks
 
