@@ -56,7 +56,13 @@ These role assignments were selected to support least privilege by restricting a
 
 ### Configuration Evidence
 
-Screenshots of the Azure RBAC assignments will be added to the `screenshots/` directory.
+**Accounting — Reader Role Assignment**
+
+![Accounting RBAC Configuration](screenshots/rbac-accounting.png)
+
+**IT — Contributor Role Assignment**
+
+![IT RBAC Configuration](screenshots/rbac-it.png)
 
 ### Security Benefits
 
@@ -113,9 +119,10 @@ Azure Key Vault can support the management of certificates used by applications 
 
 ### Configuration Evidence
 
-Screenshots of the departmental Azure Key Vault resources will be added to the `screenshots/` directory.
+The following screenshot demonstrates the IT department's
+Azure Key Vault with soft delete and purge protection enabled.
 
----
+![IT Azure Key Vault](screenshots/IT-key-vault.png)
 
 ## 3. Azure Backup Configuration
 
@@ -148,9 +155,15 @@ Although the policy settings were configured, successful backup execution and re
 
 ### Configuration Evidence
 
-Screenshots of the Azure backup policy settings will be added to the `screenshots/` directory.
+### Configuration Evidence
 
----
+**Backup Policy Settings**
+
+![Azure Backup Policy](screenshots/backup config1.png)
+
+**Lab Limitation — No Available Virtual Machines**
+
+![Azure VM Selection](screenshots/backup config 3.png)
 
 ## 4. Cloud Security Risks
 
