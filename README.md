@@ -159,7 +159,7 @@ Although the policy settings were configured, successful backup execution and re
 
 **Backup Policy Settings**
 
-![Azure Backup Policy](screenshots/backup config1.png)
+![Azure Backup Policy](screenshots/backup config 1.png
 
 **Lab Limitation — No Available Virtual Machines**
 
